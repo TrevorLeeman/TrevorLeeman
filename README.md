@@ -1,4 +1,4 @@
-👋 Hi, I’m [Trevor Leeman](https://www.linkedin.com/in/trevor-leeman/), Web Application Developer at Everett Community College!
+👋 Hi, I’m [Trevor Leeman](https://www.linkedin.com/in/trevor-leeman/), Web Application Developer currently working at Everett Community College!
 
 🧰 Technologies you'll commonly find me using include:
 - Front End: JavaScript, HTML, CSS, SCSS

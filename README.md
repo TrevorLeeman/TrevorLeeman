@@ -2,7 +2,7 @@
 
 🧰 Technologies you'll commonly find me using include:
 - Front End: JavaScript, HTML, CSS, SCSS
-- Backend: ColdFusion, PHP 
+- Back End: ColdFusion, PHP 
 - Database: SQL Server
 - Web Server: Apache, NGINX
 

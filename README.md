@@ -6,4 +6,4 @@
 - Database: SQL
 - Web Server: Apache, NGINX
 
-🌱 Currently learning React JS to buff up my front end chops.
+🌱 Focusing heavily into React to become a more productive Front End dev.

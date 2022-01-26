@@ -1,4 +1,4 @@
-👋 Hi, I’m [Trevor Leeman](https://www.linkedin.com/in/trevor-leeman/), Web Application Developer at Everett Community College!
+👋 Hi, I’m [Trevor Leeman](https://www.linkedin.com/in/trevor-leeman/), Software Engineer at MDLinx!
 
 🧰 Technologies you'll commonly find me using include:
 - Front End: JavaScript, React, HTML, CSS (SASS) 

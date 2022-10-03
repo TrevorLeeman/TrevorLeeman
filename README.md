@@ -16,5 +16,3 @@ Apache, NGINX
 
 **Deployment**:\
 Vercel, AWS
-
-🌱 Focusing heavily into React to become a more productive Front End dev.

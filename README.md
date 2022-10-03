@@ -3,7 +3,7 @@
 🧰 Technologies you'll commonly find me using include:
 
 **Front End**: React, Next.js, TypeScript, JavaScript, HTML, CSS / SCSS, Tailwind\
-**Back End**: Node.js, GraphQL, ColdFusion, PHP\
+**Back End**: Node.js, GraphQL, ColdFusion, Python, PHP\
 **Database**: SQL\
 **Web Server**: Apache, NGINX\
 **Deployment**: Vercel

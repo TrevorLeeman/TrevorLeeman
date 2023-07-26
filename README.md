@@ -1,18 +1,7 @@
-👋 Hi, I’m [Trevor Leeman](https://www.trevorleeman.com), Software Engineer at MDLinx!
+## Hi there, thanks for stopping by! 👋 
 
-🧰 Technologies you'll commonly find me using include:
+I’m [Trevor Leeman](https://www.trevorleeman.com), Software Engineer at MDLinx.
 
-**Front End**:\
-React, Next.js, TypeScript, JavaScript, GraphQL, HTML, CSS / SCSS, Tailwind CSS, Styled Components
+As an avid TypeScript user with a knack for full stack web development, I love creating websites that users find useful and pleasant to use.
 
-**Back End**:\
-Node.js, NestJS, Express, Python, PHP, ColdFusion
-
-**Database**:\
-PostgreSQL, T-SQL, Oracle
-
-**Deployment**:\
-AWS, Google Cloud, Vercel, Digital Ocean, Supabase, Railway
-
-**Web Server**:\
-Apache, NGINX
+I'd love to collaborate! You can reach me at trevormleeman@gmail.com, look forward to hearing from you :)

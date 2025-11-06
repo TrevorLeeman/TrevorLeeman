@@ -1,7 +1,9 @@
 ## Hi there, thanks for stopping by! 👋 
 
-I’m Trevor Leeman, Software Engineer at MDLinx and developer of [OSRS Exchange](https://www.osrs.exchange).
+I’m Trevor Leeman, full stack web dev by trade and founder of [OSRS Exchange](https://www.osrs.exchange).
 
-As an avid TypeScript user with a knack for full stack web development, I love creating websites that users find useful and pleasant to use. Beyond user facing features, I am a sucker for creating slick CI / CD pipelines that let developers forget that deployment can be hard.
+Self hosting enthusiast and an optimizer. I have a background in IT, and enjoy the full spectrum of software engineering - hosting, coding, and hyper-optimizing UX all fall well within my wheel house.
 
-I'd love to collaborate! You can reach me at trevormleeman@gmail.com, look forward to hearing from you :)
+Claude Code enthusiast with experience deploying real world SAAS and enterprise apps leveraging the power of AI. I love automation and creating reusable tools to compound efficiency.
+
+I'd love to collaborate! You can reach me at trevor@osrs.exchange, or personally at trevormleeman@gmail.com. Look forward to hearing from you :)

@@ -6,4 +6,4 @@ I'm a self hosting enthusiast and an optimizer with a background in IT. I enjoy 
 
 Claude Code enthusiast with experience deploying real world SAAS and enterprise apps leveraging the power of AI, both as a founder and as part of a team.
 
-I'd love to collaborate! You can reach me at trevor@osrs.exchange, or personally at trevormleeman@gmail.com. Look forward to hearing from you :)
+I'd love to collaborate! You can reach me at trevor@osrs.exchange, or personally at trevormleeman@gmail.com.
